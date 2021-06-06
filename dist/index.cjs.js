@@ -2336,7 +2336,7 @@ var MenuEntry = styled__default['default'].div(templateObject_3$2 || (templateOb
     return (isActive ? "inset 4px 0px 0px " + theme.colors.primary : "none");
 }, function (_a) {
     var theme = _a.theme;
-    return theme.colors.text;
+    return theme.colors.textSubtle;
 }, function (_a) {
     var theme = _a.theme;
     return theme.colors.textSubtle;
@@ -2901,7 +2901,7 @@ var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { sec
         blue: "linear-gradient(180deg, #00707F 0%, #19778C 100%)",
         violet: "linear-gradient(180deg, #6C4999 0%, #6D4DB2 100%)",
         violetAlt: "linear-gradient(180deg, #434575 0%, #66578D 100%)",
-    }, card: "#121827", inputBorder: "#cccccc" });
+    }, card: "#27262c", inputBorder: "#cccccc" });
 
 var light$6 = {
     background: lightColors.card,

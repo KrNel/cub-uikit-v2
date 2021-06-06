@@ -30,3 +30,4 @@ export { default as FeatureIcon } from "./Feature";
 export { default as PawIcon } from "./Paw";
 export { default as TokenizeIcon } from "./Tokenize";
 export { default as AuditIcon } from "./Audit";
+export { default as BlogIcon } from "./Blog";

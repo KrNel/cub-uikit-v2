@@ -66,6 +66,6 @@ export const darkColors: Colors = {
     violet: "linear-gradient(180deg, #6C4999 0%, #6D4DB2 100%)",
     violetAlt: "linear-gradient(180deg, #434575 0%, #66578D 100%)",
   },
-  card: "#121827",
+  card: "#27262c",
   inputBorder: "#cccccc",
 };

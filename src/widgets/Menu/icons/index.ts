@@ -27,3 +27,6 @@ export { default as FaucetIcon } from "./Faucet";
 export { default as AirdropIcon } from "./Airdrop";
 export { default as ChartIcon } from "./Chart";
 export { default as FeatureIcon } from "./Feature";
+export { default as PawIcon } from "./Paw";
+export { default as TokenizeIcon } from "./Tokenize";
+export { default as AuditIcon } from "./Audit";
